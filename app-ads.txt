@@ -1568,5 +1568,5 @@ zoomd.com,88478941,RESELLER
 #vungle start
 
 #fb start
-facebook.com, 898492655784038, RESELLER, c3e20eee3f780d68
+facebook.com, 898492655784038, DIRECT, c3e20eee3f780d68
 #fb end
